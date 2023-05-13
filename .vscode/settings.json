@@ -1,11 +1,19 @@
 {
     "github.copilot.enable": {
-
+        
         "*": true,
         "plaintext": false,
         "markdown": false,
-        "scminput": false,
-        "javascript": true,
-        "html": true,
+        "scminput": false
     }
+    // "github.copilot.enable": {
+
+
+    //     "*": true,
+    //     "plaintext": false,
+    //     "markdown": false,
+    //     "scminput": false,
+    //     "javascript": true,
+    //     "html": true
+    // }
 }
